@@ -1,5 +1,6 @@
 # Next Testing
 ![Next](https://img.shields.io/badge/Next-^15.0.2-blue)
+![Auth.js](https://img.shields.io/badge/Auth.js-^5.0.0-yellow)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
