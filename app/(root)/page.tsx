@@ -11,7 +11,7 @@ export default async function Home({searchParams}:{
     author: {_id: 1, name: 'John Doe'},
     _id: 1,
     description: 'This is a description.',
-    image: 'https://placehold.co/350x600',
+    image: 'https://placehold.co/600x250',
     category: "Robots",
     title: "We Robots",
   }];
